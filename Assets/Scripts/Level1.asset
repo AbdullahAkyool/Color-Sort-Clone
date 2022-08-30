@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32010f2eff8827649870ca1e109f35c9, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: 
+  BlockCountOfFirstLine: 5
+  BlockCountOfSecondLine: 4
+  BlockColors:
+  - {r: 0.5921569, g: 1, b: 0, a: 0}
+  - {r: 0, g: 1, b: 0.03529412, a: 0}
+  - {r: 0, g: 1, b: 0.43137258, a: 0}
+  - {r: 0, g: 1, b: 0.654902, a: 0}
+  - {r: 0, g: 1, b: 0.7960785, a: 0}
+  - {r: 0, g: 0.9921569, b: 1, a: 0}
+  - {r: 0, g: 0.8431373, b: 1, a: 0}
+  - {r: 0, g: 0.5137255, b: 1, a: 0}
+  - {r: 0, g: 0.050980397, b: 0.9607844, a: 0}
+  CorrectList:
+  - {r: 0, g: 0.052901883, b: 0.9622642, a: 0}
+  - {r: 0, g: 0.51205397, b: 1, a: 0}
+  - {r: 0, g: 0.84132123, b: 1, a: 0}
+  - {r: 0, g: 0.9901972, b: 1, a: 0}
+  - {r: 0, g: 1, b: 0.7964456, a: 0}
+  - {r: 0, g: 1, b: 0.65638375, a: 0}
+  - {r: 0, g: 1, b: 0.42967248, a: 0}
+  - {r: 0, g: 1, b: 0.033620358, a: 0}
+  - {r: 0.5934254, g: 1, b: 0, a: 0}
